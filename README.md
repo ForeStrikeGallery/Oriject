@@ -1,2 +1,2 @@
 # Oriject
-A blog site
+A blog site written using Php and MySql
